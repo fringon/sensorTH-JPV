@@ -1,0 +1,6 @@
+"C:\Program Files\R\R-4.0.1\bin\R.exe" CMD BATCH "run.r"
+
+## al cambiar de carpeta los archivos del programa hayq ue actualizar en el archivo "run"
+la ruta del mismo
+##la primera parte entre "" es la ruta al ejecutable de R
+##recordad agregar el "\R.exe" a la direccion anterior
