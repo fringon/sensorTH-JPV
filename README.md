@@ -7,14 +7,14 @@ Leer archivos .txt (obtenidos de un sensor de tempertura y humedad durante el se
 # Carpetas:
 **CODE** -> codigos de la app
 
-**DATOS** -> ejemplo datos del sensor (carpeta con fecha y dentro subcarpetas con archivos .txt de temp, hum, voltaje, etc
-
 **SHINY-APP** -> carpetas necesarias para la app
 
 # Carpeta SHINY-APP:
 **csv-SENSOR** -> datos respaldo de cada .txt original en formato .csv
 
 **RESPALDO** -> copia archivo .csv principal y es donde se guardan las copias de respaldo de cada análisis
+
+**txt-SENSOR** -> ejemplo datos del sensor (carpeta con fecha y dentro subcarpetas con archivos .txt de temp, hum, voltaje, etc
 
 **RESUMEN_MASTER.csv** -> es el archivo principal donde se cargan todos los analisis
 
